@@ -1,0 +1,4 @@
+name - i
+health - 100
+damage - 20
+armor - 1.2

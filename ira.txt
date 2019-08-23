@@ -1,0 +1,4 @@
+name - ira
+health - 80
+damage - 35
+armor - 1.2

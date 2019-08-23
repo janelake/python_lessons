@@ -1,0 +1,4 @@
+name - janett
+health - 70
+damage - 40
+armor - 1.2
