@@ -1,0 +1,7 @@
+Vasya  -  2000
+Lena  -  3000
+Max  -  4000
+Jane  -  5000
+Nastya  -  4500
+Boris  -  2900
+Kostya  -  3100
